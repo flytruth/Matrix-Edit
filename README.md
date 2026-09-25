@@ -46,7 +46,6 @@ Let's Continue Together! 🚀
 I'd love to continue this project with help. If you're interested in contributing or collaborating:
 
 Discord: truthdaniel
-Telegram: @isPraying
 How You Can Help
 
 C++/Qt Developers: Timeline logic, effects, transitions
@@ -58,4 +57,6 @@ This project is intended to be closed-source with commercial potential, but open
 
 Let's make MatrixEdit the best Linux video editor together! 🎬
 
+https://github.com/dendblinmaribol-create?tab=overview&from=2026-08-01&to=2026-08-31 
 
+Was participating in here
