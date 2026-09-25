@@ -57,6 +57,3 @@ This project is intended to be closed-source with commercial potential, but open
 
 Let's make MatrixEdit the best Linux video editor together! 🎬
 
-https://github.com/dendblinmaribol-create?tab=overview&from=2026-08-01&to=2026-08-31 
-
-Was participating in here
